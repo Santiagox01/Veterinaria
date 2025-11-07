@@ -1,0 +1,15 @@
+=== REPORTE DE MASCOTAS ===
+Generado: Fri Nov 07 09:01:41 GMT-05:00 2025
+
+ID: 1
+Nombre: asd
+Tipo: Perro
+Raza: adsd
+Edad: 12 meses
+Peso: 4.5 kg
+Estado: SIN_ADOPTAR
+Fecha Ingreso: 07/11/2025
+Género: Macho
+Lugar Origen: medellin
+Vacunas: algunas
+----------------------------------------
